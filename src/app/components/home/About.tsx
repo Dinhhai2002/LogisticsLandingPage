@@ -129,7 +129,7 @@ export default function About() {
                 >
                   24/7
                 </motion.h3>
-                <p className="text-gray-600">{t.support}</p>
+                <p className="text-gray-600">{t.customerSupport}</p>
               </motion.div>
             </motion.div>
           </div>

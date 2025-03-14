@@ -33,7 +33,7 @@ export const translations = {
     yearsExperience: 'Years of Experience',
     happyClients: 'Happy Clients',
     countriesServed: 'Countries Served',
-    support: 'Customer Support',
+    customerSupport: 'Customer Support',
 
     // Contact Section
     contactTitle: 'Contact Us',
@@ -95,7 +95,7 @@ export const translations = {
     yearsExperience: 'Năm Kinh Nghiệm',
     happyClients: 'Khách Hàng Hài Lòng',
     countriesServed: 'Quốc Gia',
-    support: 'Hỗ Trợ 24/7',
+    customerSupport: 'Hỗ Trợ 24/7',
 
     // Contact Section
     contactTitle: 'Liên Hệ',
